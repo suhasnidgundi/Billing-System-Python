@@ -1,0 +1,18 @@
+	Welcome To Suveesoft Retail
+
+ Bill Number : 4189
+ Customer Name : suhasnidgundi
+ Phone Number : 9272503745
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		5		200
+ Wheat		5		200
+ Limca		4		160
+---------------------------------------
+ Cosmetic Tax			Rs. 10.0
+ Grocery Tax			Rs. 10.0
+ Cold Drink Tax			Rs. 8.0
+---------------------------------------
+ Total Bill : 			588.0
+---------------------------------------

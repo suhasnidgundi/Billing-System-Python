@@ -1,0 +1,33 @@
+	Welcome To Suveesoft Retail
+
+ Bill Number : 4742
+ Customer Name : suhas nidgundi
+ Phone Number : 1234567890
+=======================================
+ Products		QTY		Price
+=======================================
+ Bath Soap		1		40
+ Face Cream		2		80
+ Face Wash		3		120
+ Hair Oil		4		160
+ Hair Shampoo		5		200
+ Body Loshan		6		240
+ Rice		8		320
+ Food Oil		2		80
+ Daal		6		240
+ Wheat		7		280
+ Sugar		7		280
+ Tea		8		320
+ Maza		6		240
+ Frooti		3		120
+ Thumbs Up		6		240
+ Limca		6		240
+ Sprite		4		160
+ Red Bull		5		200
+---------------------------------------
+ Cosmetic Tax			Rs. 42.0
+ Grocery Tax			Rs. 76.0
+ Cold Drink Tax			Rs. 60.0
+---------------------------------------
+ Total Bill : 			3738.0
+---------------------------------------
